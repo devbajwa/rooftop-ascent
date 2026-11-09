@@ -1,6 +1,6 @@
 # Rooftop Ascent
 
-A first-person 3D parkour game for the browser, built with Three.js. Play it at **https://hardcore-parkour.netlify.app/**
+A third-person 3D parkour game for the browser, built with Three.js. Play it at **https://hardcore-parkour.netlify.app/**
 
 Built by Waqas Bajwa with AI-assisted development. I designed the game, played and tested every build myself, and had the AI fix the issues I found, such as character movement, gameplay and performance.
 
